@@ -6,7 +6,7 @@ year of price prediction. The range, as per app designed is limited to max 90 da
 
 ## Demo app
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/streamlit-magic/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cryptoshepherd-crypto-price-prediction-app-app-2w0hdx.streamlitapp.com/)
 
 ## Credits
 
